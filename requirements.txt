@@ -1,0 +1,6 @@
+pandas==2.2.0
+numpy==1.26.4
+matplotlib==3.8.2
+seaborn==0.13.2
+ydata-profiling==4.6.4
+jupyter==1.0.0
